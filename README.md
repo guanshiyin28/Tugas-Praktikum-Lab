@@ -84,7 +84,7 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guanshiyin28&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
 <img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28">
-<img width="1000" src="assets/snake.svg" alt="snake"/>
+<img width="1000" src="https://github.com/guanshiyin28/guanshiyin28/blob/master/assets/snake.svg" alt="snake"/>
 
 </div>
 <hr><br>
