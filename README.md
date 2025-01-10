@@ -66,5 +66,3 @@ This repository serves as a central location for students to access, submit, and
 <a href="https://www.instagram.com/guanshiyin_/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:06D001,100:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
-
-</div>
