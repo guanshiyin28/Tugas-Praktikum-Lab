@@ -7,15 +7,23 @@
 
 # Tugas Praktikum Lab UPB
 
+<div align=justify>
+  
 Tugas Praktikum Lab UPB is a series of practical assignments designed for students of Universitas Pelita Bangsa to enhance their understanding and skills in various subjects through hands-on experience.
 
 <hr><br>
 
+<div align=center>
+  
 ## Purpose of This Repository
+
+<div align=justify>
 
 This repository serves as a central location for students to access, submit, and review their practical assignments for the Tugas Praktikum Lab UPB course.
 
 <hr><br>
+
+<div align=center>
 
 ## Table of Contents
 
